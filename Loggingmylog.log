@@ -29,3 +29,4 @@
 [2023-10-04 14:48:10,017] bhanus-MBP.Dlink/INFO/root: request is getting processed
 [2023-10-04 14:48:11,047] bhanus-MBP.Dlink/INFO/root: request is getting processed
 [2023-10-04 14:48:12,051] bhanus-MBP.Dlink/INFO/root: request is getting processed
+[2023-10-04 15:13:02,449] bhanus-MBP.Dlink/INFO/locust.main: Shutting down (exit code 1)
