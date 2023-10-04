@@ -19,3 +19,4 @@ class MyLoadTest(HttpUser):
     host = "https://http.cat/"
     tasks = [MyHttpCat]
     wait_time = constant(1)
+
